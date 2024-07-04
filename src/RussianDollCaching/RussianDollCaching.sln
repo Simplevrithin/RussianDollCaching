@@ -5,6 +5,10 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RussianDollCaching.Core", "RussianDollCaching.Core\RussianDollCaching.Core.csproj", "{D2906F97-069B-422A-9AEA-AD84C04536D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RussianDollCaching.Attributes", "RussianDollCaching.Attributes\RussianDollCaching.Attributes.csproj", "{55213841-8D4C-49E1-94D2-E0574FE8B457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RussianDollCaching.Tests", "RussianDollCaching.Tests\RussianDollCaching.Tests.csproj", "{AC4978C9-FE24-416A-ACE0-F3A6DDB61342}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D2906F97-069B-422A-9AEA-AD84C04536D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2906F97-069B-422A-9AEA-AD84C04536D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2906F97-069B-422A-9AEA-AD84C04536D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55213841-8D4C-49E1-94D2-E0574FE8B457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55213841-8D4C-49E1-94D2-E0574FE8B457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55213841-8D4C-49E1-94D2-E0574FE8B457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55213841-8D4C-49E1-94D2-E0574FE8B457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4978C9-FE24-416A-ACE0-F3A6DDB61342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4978C9-FE24-416A-ACE0-F3A6DDB61342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4978C9-FE24-416A-ACE0-F3A6DDB61342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4978C9-FE24-416A-ACE0-F3A6DDB61342}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
